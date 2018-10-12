@@ -1,0 +1,59 @@
+
+<div class="container">
+  <div class="form-row">
+      <div class="col-md-3 mb-3">
+        <label for="validationCustom01">Game Name</label>
+        <input type="text" class="form-control" [(ngModel)]="txtGameName" placeholder="Game Name" >
+        <div class="valid-feedback">
+          Looks good!
+        </div>
+      </div>
+      <div class="col-md-3 mb-3">
+          <label for="validationCustom01">Player1</label>
+          <input type="text" class="form-control" [(ngModel)]="txtPlayer1" placeholder="Player1" >
+          <div class="valid-feedback">
+            Looks good!
+          </div>
+        </div>
+        <div class="col-md-3 mb-3">
+          <label for="validationCustom01">Player2</label>
+          <input type="text" class="form-control" [(ngModel)]="txtPlayer2" placeholder="Player2" >
+          <div class="valid-feedback">
+            Looks good!
+          </div>
+        </div>
+        <div class="col-md-3 mb-3">
+          <label for="validationCustom01">Who Won ?</label>
+          <input type="text" class="form-control" [(ngModel)]="txtWhoWon" placeholder="Who Won ?" >
+          <div class="valid-feedback">
+            Looks good!
+          </div>
+        </div>
+    </div>
+  
+    <button  class="btn btn-outline-success" (click)='SearchGames()'>search</button>
+  
+    <div  *ngIf="showtable">
+      <table class="table table-bordered text-center mt-5">
+          <thead>
+            <tr>
+              <th scope="col">ID</th>
+              <th scope="col">Game Name</th>
+              <th scope="col">Player1</th>
+              <th scope="col">Player2</th>
+              <th scope="col">Who Won?</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor= "let game of wantedGames">
+              <th scope="row">{{game.ID}}</th>
+              <td>{{game.Game_Name}}</td>
+              <td>{{game.Player1}}</td>
+              <td>{{game.Player2}}</td>
+              <td>{{game.Who_Won_}}</td>
+            </tr>  
+          </tbody>
+        </table>
+      </div>
+  
+  </div>

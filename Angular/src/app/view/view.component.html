@@ -1,0 +1,43 @@
+
+<!-- <ul class="list-group">
+    <li
+    *ngFor="let game of gameResults"
+    class="list-group-item">
+    {{game.ID}}
+</li> 
+</ul> -->
+<div class="container">
+<table class="table table-bordered text-center">
+    <thead>
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Game Name</th>
+        <th scope="col">Player1</th>
+        <th scope="col">Player2</th>
+        <th scope="col">Who Won?</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let game of gameResults; let i = index " (click)="rowselected($event)" [class.active]="i == (selectedRow-1)">
+        <th scope="row">{{game.ID}}</th>
+        <td>{{game.Game_Name}}</td>
+        <td>{{game.Player1}}</td>
+        <td>{{game.Player2}}</td>
+        <td>{{game.Who_Won_}}</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="row">
+      <input [(ngModel)] = "txtId" type="text" class="col-1 ml-auto">
+      <input [(ngModel)]="txtGameName" type="text" class="col-2 ml-auto">
+      <input [(ngModel)]="txtPlayer1" type="text" class="col-2 ml-auto">
+      <input [(ngModel)]="txtPLayer2" type="text" class="col-2 ml-auto">
+      <input [(ngModel)]="txtHowWon" type="text" class="col-2 ml-auto">
+  </div>
+  <div class="row mt-4">
+    <button class="btn btn-outline-primary" (click)="PostGame()">Add</button>
+    <button class="btn btn-outline-primary ml-3" (click)="PutGame()">Update</button>
+    <button class="btn btn-outline-danger ml-3" (click)="deleteGame()">Delete</button>
+  </div>
+</div>

@@ -1,0 +1,318 @@
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\ApplicationInsights.config
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\GameTour.dll.config
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\GameTour.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\GameTour.pdb
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csc.exe
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csc.exe.config
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csc.rsp
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csi.exe
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csi.exe.config
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csi.rsp
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.AppContext.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Collections.Immutable.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Console.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.Compression.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.FileSystem.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.Pipes.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Reflection.Metadata.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.AccessControl.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Claims.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.ValueTuple.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.XPath.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\vbc.exe
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\vbc.exe.config
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\vbc.rsp
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\VBCSCompiler.exe
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\VBCSCompiler.exe.config
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Antlr3.Runtime.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\DbConection1.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.SqlServer.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.DependencyCollector.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.Web.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.WindowsServer.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.ApplicationInsights.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.Web.Infrastructure.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Newtonsoft.Json.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Swashbuckle.Core.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Net.Http.Formatting.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Helpers.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.WebHost.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Mvc.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Optimization.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Razor.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Deployment.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Razor.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\WebActivatorEx.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\WebGrease.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\DbConection1.pdb
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\DbConection1.dll.config
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.SqlServer.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Newtonsoft.Json.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Net.Http.Formatting.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Helpers.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.WebHost.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Mvc.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Optimization.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Razor.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Deployment.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Razor.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Antlr3.Runtime.pdb
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.DependencyCollector.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.WindowsServer.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.Web.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.csprojAssemblyReference.cache
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.csproj.CoreCompileInputs.cache
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.csproj.CopyComplete
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.dll
+C:\Oleg\My projects\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.pdb
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\ApplicationInsights.config
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\GameTour.dll.config
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\GameTour.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\GameTour.pdb
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csc.exe
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csc.exe.config
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csc.rsp
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csi.exe
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csi.exe.config
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csi.rsp
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.AppContext.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Collections.Immutable.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Console.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.Compression.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.FileSystem.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.Pipes.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Reflection.Metadata.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.AccessControl.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Claims.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.ValueTuple.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.XPath.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\vbc.exe
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\vbc.exe.config
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\vbc.rsp
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\VBCSCompiler.exe
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\VBCSCompiler.exe.config
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Antlr3.Runtime.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\DbConection1.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.SqlServer.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.DependencyCollector.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.Web.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.WindowsServer.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.ApplicationInsights.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.Web.Infrastructure.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Newtonsoft.Json.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Swashbuckle.Core.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Net.Http.Formatting.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Helpers.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.WebHost.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Mvc.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Optimization.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Razor.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Deployment.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Razor.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\WebActivatorEx.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\WebGrease.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\DbConection1.pdb
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\DbConection1.dll.config
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.SqlServer.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Newtonsoft.Json.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Net.Http.Formatting.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Helpers.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.WebHost.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Mvc.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Optimization.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Razor.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Deployment.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Razor.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Antlr3.Runtime.pdb
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.DependencyCollector.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.WindowsServer.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.Web.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.csprojAssemblyReference.cache
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.csproj.CoreCompileInputs.cache
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.csproj.CopyComplete
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.dll
+C:\Oleg\My projects\WebAPI FP\29-09-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.pdb
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\ApplicationInsights.config
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\GameTour.dll.config
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\GameTour.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\GameTour.pdb
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csc.exe
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csc.exe.config
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csc.rsp
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csi.exe
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csi.exe.config
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\csi.rsp
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.AppContext.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Collections.Immutable.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Console.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.Compression.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.FileSystem.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.IO.Pipes.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Reflection.Metadata.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.AccessControl.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Claims.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.ValueTuple.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.XPath.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\vbc.exe
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\vbc.exe.config
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\vbc.rsp
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\VBCSCompiler.exe
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\roslyn\VBCSCompiler.exe.config
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Antlr3.Runtime.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\DbConection1.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.SqlServer.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.DependencyCollector.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.Web.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.WindowsServer.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.ApplicationInsights.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.Web.Infrastructure.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Newtonsoft.Json.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Swashbuckle.Core.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Net.Http.Formatting.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Helpers.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.WebHost.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Mvc.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Optimization.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Razor.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Deployment.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Razor.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\WebActivatorEx.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\WebGrease.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\DbConection1.pdb
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\DbConection1.dll.config
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\EntityFramework.SqlServer.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Newtonsoft.Json.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Net.Http.Formatting.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Helpers.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Http.WebHost.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Mvc.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Optimization.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.Razor.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Deployment.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Web.WebPages.Razor.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Antlr3.Runtime.pdb
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.DependencyCollector.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.WindowsServer.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.AI.Web.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.csprojAssemblyReference.cache
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.csproj.CoreCompileInputs.cache
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.csproj.CopyComplete
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.dll
+C:\Oleg\My projects\BackUp\07-10-2018\WebAPI FP\WebAPIFPGamesTournament\GameTour\obj\Debug\GameTour.pdb

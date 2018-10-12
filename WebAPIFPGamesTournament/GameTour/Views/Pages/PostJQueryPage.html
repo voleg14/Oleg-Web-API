@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JQueryPost</title>
+    <link href="../../Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="../../Scripts/jquery-3.3.1.js"></script>
+
+    <script src="../../Scripts/Pages/JQueryPostPage.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Games Results</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item ">
+                    <a class="nav-link" href="../Pages/GetPage">GetPage</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../Pages/PostPage">PostPage</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../Pages/PutDeletePage">Put/DeletePage</a>
+                </li>
+                <li class="nav-item dropdown active">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        AJAX: Post
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="../Pages/GetJQueryPage">Get</a>
+                        <a class="dropdown-item" href="../Pages/PostJQueryPage">Post</a>
+                        <a class="dropdown-item" href="../Pages/PutDeleteJQueryPage">Put/Delete</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../Pages/ObservablePage">Observable: Get</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container mt-5">
+        <form>
+            <div class="form-group row">
+                <label for="inputEmail3" class="col-sm-2 col-form-label text-center">Game Name:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control col-3" id="txtGameName" placeholder=" Please enter game name">
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="inputPassword3" class="col-sm-2 col-form-label text-center">Player1:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control col-3" id="txtPlayer1" placeholder=" Please enter player1 name">
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="inputPassword3" class="col-sm-2 col-form-label text-center">Player2:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control col-3" id="txtPlayer2" placeholder=" Please enter player2 name">
+                </div>
+            </div>
+            <fieldset class="form-group">
+                <div class="row">
+                    <legend class="col-form-label col-sm-2 pt-0">Who Won:</legend>
+                    <div class="col-sm-10">
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="Player1" checked>
+                            <label class="form-check-label" for="gridRadios1">
+                                Player1
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="Player2">
+                            <label class="form-check-label" for="gridRadios2">
+                                Player2
+                            </label>
+                        </div>
+                        <div class="form-check disabled">
+                            <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="Tie">
+                            <label class="form-check-label" for="gridRadios3">
+                                Tie
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </fieldset>
+
+            <div class="form-group row">
+                <div class="col-sm-10 row ">
+                    <button type="button" class="btn btn-primary ml-5" onclick="PostGame()">Post Game</button>
+                    <button type="button" class="btn btn-primary ml-5" onclick="GetAllGames()">Get All games</button>
+                </div>
+            </div>
+        </form>
+        <div class="mt-5" id="resolt">
+
+        </div>
+    </div>
+
+    <script src="../../Bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>
